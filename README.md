@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋 I'm Sammy
 
-<!--
-**arlee0611/arlee0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bioinformatics and data science enthusiast building pipelines that turn raw biological data into actionable insights. Whether it's gene expression, genome annotation, or drug target discovery — I love solving complex problems with clean code and smart algorithms.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects
+- 🧬 **Genome Annotation Pipeline** — ORF detection, promoter prediction, BLAST integration
+- 💊 **Therapeutic Target Prioritization** — UniProt + HPA integration for drug discovery
+- 📊 **Biomedical Dashboards** — Interactive tools for exploring gene–disease relationships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning Goals
+- Advanced statistical modeling for genomics
+- Functional enrichment and pathway analysis
+- Building scalable bioinformatics tools with cloud support
+
+### 👯 Collaboration Interests
+- Open-source bioinformatics tools
+- Data-driven drug discovery
+- Genomic visualization and annotation platforms
+
+### 💬 Ask Me About
+- Python for life sciences
+- Data wrangling with Pandas
+- Automating multi-source data pipelines
+
+### 📫 How to Reach Me
+welcome to dm!
+
+### ⚡ Fun Fact
+I once built a gene expression dashboard that predicted tissue-specific drug targets — and it worked better than expected!
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repos, fork anything useful, or reach out if you want to collaborate 🚀
